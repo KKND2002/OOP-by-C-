@@ -62,8 +62,8 @@ In this example, Car is a class with attributes like brand, model, and year. The
 An object is an instance of a class. When a class is defined, you can create objects based on that class. Objects hold data and interact with methods defined in the class.
 
 Example:
+int main() { 
 
-int main() {
     // Create an object of class Car
     Car car1("Toyota", "Corolla", 2020);
     
